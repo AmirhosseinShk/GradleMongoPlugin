@@ -115,7 +115,7 @@ pluginBundle {
 gradlePlugin {
     plugins {
         mongoPlugin {
-            id = 'com.github.AmirhosseinShk.GradleMongoPlugin'
+            id = 'com.github.AmirhosseinShk'
             displayName = 'Gradle Mongo plugin'
             description = 'Gradle plugin for running a managed instance of Mongo.'
             implementationClass = 'com.sourcemuse.gradle.plugin.flapdoodle.gradle.GradleMongoPlugin'
