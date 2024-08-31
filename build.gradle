@@ -29,7 +29,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'de.flapdoodle.embed:de.flapdoodle.embed.mongo:3.4.6'
+    implementation 'de.flapdoodle.embed:de.flapdoodle.embed.mongo:3.5.4'
     implementation 'org.mongodb:mongo-java-driver:3.12.11'
 
     testImplementation 'org.spockframework:spock-core:2.1-groovy-3.0', {
