@@ -19,7 +19,7 @@ plugins {
 }
 
 group = 'com.sourcemuse.gradle.plugin'
-version = '2.0.1-SNAPSHOT'
+version = '2.1.0-SNAPSHOT'
 
 sourceCompatibility = 17
 targetCompatibility = 17
